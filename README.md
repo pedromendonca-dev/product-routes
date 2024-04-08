@@ -7,8 +7,8 @@ Links,Rotas dinamicas, serverjson, useparams (hook).
 
 Para iniciar o projeto, primeiro rode o servidor, utilizando:
 
-npm run server
+`npm run server`
 
 em seguida de o comando inicial para o start.
 
-npm start
+`npm start`
