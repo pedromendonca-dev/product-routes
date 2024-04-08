@@ -1,0 +1,24 @@
+nav {
+  display:flex;
+  justify-content: center;
+  border-bottom: 2px solid #AEB8FE;
+  background-color: #AEB8FE;
+  height: 50px;
+  align-items: center;
+}
+
+nav a {
+  padding: 15px 25px;
+  text-decoration: none;
+  color:#27187E;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #FF8600;
+}
+
+.active{
+  background-color: #758BFD;
+  color: #E5E5E5;
+}

@@ -1,0 +1,31 @@
+
+{
+
+  "products": 
+[
+    {
+      "img":"/img/sonicshoes.png",
+      "name": "Sonic Shoes",
+      "price": "200",
+      "id":5,
+      "description":"A red shoes likes sonic's shoes"
+    },
+    {
+      "img": "/img/amyhammer.png",
+      "name": "Amy Hammer",
+      "price": "150",
+      "id":6,
+      "description":"A hammer"
+    },
+    {
+      "img": "/img/tails.png",
+      "name": "Tails Tails",
+      "price": "100",
+      "id":7,
+      "description": "Tails Tails"
+    }
+    
+]
+  
+
+}

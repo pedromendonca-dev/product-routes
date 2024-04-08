@@ -1,0 +1,14 @@
+.product{
+  display:flex;
+  justify-content:left;
+  align-items: center;
+  text-align: left;
+}
+
+
+.product img{
+  width: 250px;
+  height: 250px;
+  background-color: aliceblue;
+  border: 2px solid #AEB8FE
+}

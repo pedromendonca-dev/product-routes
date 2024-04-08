@@ -1,0 +1,38 @@
+.products {
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  padding-left: 220px;
+  display:flex;
+  justify-content: left;
+}
+
+.products li {
+  border: 2px solid #27187E;
+  border-radius:5px;
+  padding: 10px;
+  text-align: center;
+  list-style: none;
+  margin: 0 10px;
+  width: 25%;
+  height: 400px;
+  background-color: #AEB8FE;
+}
+.products li h2{
+  padding-top: 40px;
+}
+
+.products li p{
+  padding-top: 70px;
+  font-weight: bold;
+}
+
+.products li img{
+  background-color: aliceblue;
+  border: 2px solid #758BFD;
+  width: 150px;
+  height: 150px;
+}
