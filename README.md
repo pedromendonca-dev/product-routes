@@ -8,7 +8,6 @@ Server JSON: Implementando um servidor JSON para simular uma API e interagir com
 useParams Hook: Utilizando o hook useParams do React Router para acessar parâmetros de URL dinâmicos em componentes.
 
 Como Iniciar o Projeto
-Para iniciar o projeto, primeiro certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 <h1>Inicie o Servidor JSON:</h1>
 Antes de iniciar a aplicação, é necessário iniciar o servidor JSON. No terminal, execute o seguinte comando:
